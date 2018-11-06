@@ -8,5 +8,5 @@
     * [typeof操作符](js/1.md)
     * [Array](js/2.md)
     * [String](js/3.md)
-    * [Regexp](js/4.md)
+    * [RegExp](js/4.md)
 
