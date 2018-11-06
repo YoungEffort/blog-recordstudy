@@ -9,4 +9,6 @@
     * [Array](js/2.md)
     * [String](js/3.md)
     * [RegExp](js/4.md)
+    * [Math](js/5.md)
+    * [Number](js/6.md)
 
