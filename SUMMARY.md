@@ -11,4 +11,5 @@
     * [RegExp](js/4.md)
     * [Math](js/5.md)
     * [Number](js/6.md)
+    * [Global](js/7.md)
 
