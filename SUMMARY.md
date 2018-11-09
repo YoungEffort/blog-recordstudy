@@ -12,4 +12,5 @@
     * [Math](js/5.md)
     * [Number](js/6.md)
     * [Global](js/7.md)
+    * [Date](js/8.md)
 
