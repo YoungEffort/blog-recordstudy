@@ -13,9 +13,11 @@
     * [Number](js/6.md)
     * [Global](js/7.md)
     * [Date](js/8.md)
+    * [Error](js/9.md)
 * [NODE](node/README.md)
     * [Node核心：异步流程控制](node/1.md)
 * [ES6](es6/README.md)
     * [Iterator 和 for...of 循环](es6/1.md)
     * [Generator 函数的语法](es6/2.md)
+    * [async 函数](es6/3.md)
 
