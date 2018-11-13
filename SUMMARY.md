@@ -14,6 +14,7 @@
     * [Global](js/7.md)
     * [Date](js/8.md)
     * [Error](js/9.md)
+    * [客户端检测](js/10.md)
 * [NODE](node/README.md)
     * [Node核心：异步流程控制](node/1.md)
 * [ES6](es6/README.md)
