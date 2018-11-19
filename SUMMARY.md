@@ -15,6 +15,7 @@
     * [Date](js/8.md)
     * [Error](js/9.md)
     * [客户端检测](js/10.md)
+    * [可维护性](js/11.md)
 * [NODE](node/README.md)
     * [Node核心：异步流程控制](node/1.md)
     * [模块-Array](node/modules/1.md)
