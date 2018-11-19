@@ -17,8 +17,11 @@
     * [客户端检测](js/10.md)
 * [NODE](node/README.md)
     * [Node核心：异步流程控制](node/1.md)
+    * [模块-Array](node/modules/1.md)
 * [ES6](es6/README.md)
     * [Iterator 和 for...of 循环](es6/1.md)
     * [Generator 函数的语法](es6/2.md)
     * [async 函数](es6/3.md)
+* [REACT](react/README.md)
+    * [react基础知识](react/1.md)
 
